@@ -1,0 +1,4 @@
+baseURL = "https://mtbhd.netlify.app"
+languageCode = "en-us"
+title = "MTB HD"
+theme = "hugo_theme_pickles"
